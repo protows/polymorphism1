@@ -1,0 +1,9 @@
+
+package lesson_6.polymorphism1;
+
+public class CellularPhone extends Phone{
+     CellularPhone(String  number){
+        super(number);
+    }
+    
+}
